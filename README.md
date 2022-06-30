@@ -1,4 +1,4 @@
-# ng-start-sp
+# @softwarepilgrim/ng-starter-shell
 Schematics project for Software Pilgrim Angular Starter Shell
 
 ### Usage
@@ -8,10 +8,10 @@ Install Angular CLI with
 npm install @angular/cli -g
 ```
 
-Using Angular cli run the schematics like
+Install with npm
 
 ```bash
-ng add ng-start-sp
+npm install @softwarepilgrim/ng-starter-shell
 ```
 
 ### Testing
