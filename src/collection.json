@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "starter-shell": {
+      "description": "Schematic for Starter Shell for Angular.",
+      "factory": "./starter-shell/index#starterShell"
+    }
+  }
+}
