@@ -14,6 +14,12 @@ Install with npm
 npm install @softwarepilgrim/ng-starter-shell
 ```
 
+Generate with ng
+
+```bash
+ng generate @softwarepilgrim\ng-starter-shell:starter-shell
+```
+
 ### Testing
 
 To test locally, install `@angular-devkit/schematics-cli` globally and use the `schematics` command line tool. That tool acts the same as the `generate` command of the Angular CLI, but also has a debug mode.
